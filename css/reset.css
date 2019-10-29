@@ -1,0 +1,20 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,dialog,div,dl,dt,em,embed,fieldset,figcaption,figure,font,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,hr,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,meter,nav,object,ol,output,p,pre,progress,q,rp,rt,ruby,s,samp,section,small,p,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video,xmp{margin:0;padding:0;} 
+
+body{font-size:16px;font-family:微软雅黑,Verdana,sans-serif;}
+article, aside, details, figcaption, figure, dialog, footer, header, hgroup, menu, nav, section {display:block;} 
+img {color: transparent;vertical-align: middle;-ms-interpolation-mode: bicubic;} 
+ol,ul {list-style: none;}
+li {display: list-item;list-style-type:none;}
+table {border-collapse: collapse;}
+th,td,caption {font-weight: normal;vertical-align: middle;text-align: left;}
+hr {border: 0 #ccc solid;border-top-width: 1px;clear: both;height: 0;}
+h1 {font-size: 2.5em;}
+h2 {font-size: 2.3em;}
+h3 {font-size: 2.1em;}
+h4 {font-size: 1.9em;}
+h5 {font-size: 1.7em;}
+h6 {font-size: 14px;}
